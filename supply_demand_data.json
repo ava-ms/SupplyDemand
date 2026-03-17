@@ -423,32 +423,32 @@
     "2026-03-16": {
       "Canada Dry Gas Production": 19014,
       "Total Supply": 19014,
-      "Canada Total Consumption": 13780,
-      "Total Consumption": 13780,
+      "Canada Total Consumption": 13756,
+      "Total Consumption": 13756,
       "Net Flows to Pacific Northwest": 2823,
       "Net Flows to Rockies": 518,
       "Net Flows to MidCon": 1093,
       "Net Flows to Northeast": -136,
       "Net Flows": 4298,
       "LNG Feed Gas": 3284,
-      "Total Demand": 21361,
-      "Sample Storage": 530,
-      "Implied Storage/Balancing": 937
+      "Total Demand": 21337,
+      "Sample Storage": 532,
+      "Implied Storage/Balancing": 961
     },
     "2026-03-17": {
-      "Canada Dry Gas Production": 19315,
-      "Total Supply": 19315,
-      "Canada Total Consumption": 12798,
-      "Total Consumption": 12798,
+      "Canada Dry Gas Production": 19238,
+      "Total Supply": 19238,
+      "Canada Total Consumption": 12885,
+      "Total Consumption": 12885,
       "Net Flows to Pacific Northwest": 3112,
       "Net Flows to Rockies": 463,
       "Net Flows to MidCon": 1232,
       "Net Flows to Northeast": 631,
       "Net Flows": 5439,
-      "LNG Feed Gas": 635,
-      "Total Demand": 18871,
+      "LNG Feed Gas": 974,
+      "Total Demand": 19298,
       "Sample Storage": 1279,
-      "Implied Storage/Balancing": 1078
+      "Implied Storage/Balancing": 914
     }
   },
   "26160": {
@@ -3050,19 +3050,19 @@
       "Net Flows from Canada": 518,
       "Net Inflows": 518,
       "Total Supply": 8686,
-      "Power": 566,
+      "Power": 569,
       "Industrial": 541,
       "Res/Com": 1288,
-      "Total Consumption": 2396,
+      "Total Consumption": 2398,
       "Net Flows to Desert Southwest": 1220,
       "Net Flows to Lower Midcon": 1385,
       "Net Flows to Pacific Northwest": 258,
       "Net Flows to Plains": 2583,
       "Net Outflows": 5446,
       "Fuel and Pipe Loss": 440,
-      "Total Demand": 8282,
+      "Total Demand": 8285,
       "Sample Storage": 127,
-      "Implied Storage/Balancing": 403
+      "Implied Storage/Balancing": 401
     },
     "2026-03-17": {
       "Anadarko": 1,
@@ -3652,14 +3652,14 @@
       "Implied Storage/Balancing": -3515
     },
     "2026-03-17": {
-      "Net Flows from Gulf of Mexico": 2041,
+      "Net Flows from Gulf of Mexico": 2047,
       "Net Flows from Texas": 9384,
       "Net Flows from Midcontinent": 902,
       "Net Flows from Northeast": 6313,
-      "Net Inflows": 18640,
+      "Net Inflows": 18647,
       "Dry Gas Production": 10677,
       "LNG Sendout": 310,
-      "Total Supply": 29627,
+      "Total Supply": 29634,
       "Power": 9672,
       "Industrial": 6484,
       "Res/Com": 5706,
@@ -3668,7 +3668,7 @@
       "Fuel and Pipeloss": 1198,
       "Total Demand": 36819,
       "Sample Storage": 1099,
-      "Implied Storage/Balancing": -7192
+      "Implied Storage/Balancing": -7186
     }
   },
   "26108": {
